@@ -1,17 +1,17 @@
-# Tout mes Codes de l'années
+# Tous mes codes de l'année
 
 ## ALGO-C++
 
-plein de petits projets ecrits en C++ avec une spécification des Roles Entrés Sorties
+Plein de petits projets écrits en C++ avec une spécification des Rôles Entrés Sorties
 
 ## AUTO-VHDL
 
-tout les codes fait sur un microcontroleur ecrits en VHDL
+Tous les codes fait sur un microcontrôleur écrits en VHDL
 
 ## INFO-C
 
-les codes réalisée sur un microprocésseure propre de l'IUT
+Les codes réalisés sur un microprocesseur propres de l'IUT
 
 ## SAE-ARDUINO
 
-les codes fait dans le but de réalisée un robot suiveur de lignes et detéctant les obstacles
+Les codes fait dans le but de réaliser un robot suiveur de lignes et détectant les obstacles
